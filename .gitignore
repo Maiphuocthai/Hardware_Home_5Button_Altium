@@ -1,0 +1,8 @@
+# Lọc file rác và file tự động sinh của Altium
+History/
+Project Logs*/
+Project Outputs*/
+__Previews/
+*.zip
+*.PcbDoc.htm
+*.SchDoc.htm
